@@ -1,1 +1,4 @@
 *.md filter=lfs diff=lfs merge=lfs -text
+*.i64 filter=lfs diff=lfs merge=lfs -text
+*.raw filter=lfs diff=lfs merge=lfs -text
+*.ipad4 filter=lfs diff=lfs merge=lfs -text
